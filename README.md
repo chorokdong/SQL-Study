@@ -4,7 +4,7 @@
 ### PostgreSQL
 - 종류: 객체 관계형 DBMS(ODBMS)
 - 장점
--      
+-      무료 사용 
 
 
 
